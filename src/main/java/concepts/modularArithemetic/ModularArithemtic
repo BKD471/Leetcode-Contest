@@ -1,0 +1,13 @@
+
+Formulae
+
+m=100000007
+
+1 (a+b)%m =((a%m) + (b%m))%m
+2 (a*b)%m =((a%m)*(b%m))%m
+3 (a-b)%m =((a%m) - (b%m)+m)%m
+4 (a/b)%m =((a%m)*(b^-1)%m)%m  => (a/b) ==> (a*1/b)
+
+10^9+7
+---> close to max integer range
+---> being a prime, we can calculate multiplicative inverse from 1 to m
