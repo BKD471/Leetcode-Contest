@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2cbdf49-e0e2-4903-8a44-0062e22a690f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concepts/modularArithemetic/LargeFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concepts/modularArithemetic/ModularArithemtic" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/concepts/modularArithemetic/LargeFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concepts/modularArithemetic/LargeFactorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Bhaskar\Desktop\LCContest\Contest\src\main\java\concepts\modularArithemetic" />
@@ -87,9 +85,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tef" />
+      <module name="Contest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.LargeFactorial" />
+        <item itemvalue="Application.Tef" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -106,7 +112,10 @@
       <workItem from="1678584814575" duration="1141000" />
       <workItem from="1678671744251" duration="468000" />
       <workItem from="1678713709499" duration="2000" />
-      <workItem from="1678799809927" duration="3559000" />
+      <workItem from="1678799809927" duration="4758000" />
+      <workItem from="1678847163534" duration="23000" />
+      <workItem from="1678898660963" duration="2006000" />
+      <workItem from="1678955140446" duration="3000" />
     </task>
     <servers />
   </component>

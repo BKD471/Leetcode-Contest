@@ -1,5 +1,4 @@
 package concepts.modularArithemetic;
-
 import java.math.BigInteger;
 
 public class LargeFactorial {

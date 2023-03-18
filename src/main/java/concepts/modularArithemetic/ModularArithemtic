@@ -11,3 +11,31 @@ m=100000007
 10^9+7
 ---> close to max integer range
 ---> being a prime, we can calculate multiplicative inverse from 1 to m
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+Multiplicative Inverse
+4 (a/b)%m =((a%m)*(b^-1)%m)%m  => (a/b) ==> (a*1/b)
+
+we know x*1/x=1
+given x & m, calculate x^-1 , assume y=x^-1
+y is inverse mod of x when  (x*y)%m=1
+
+y wont exists always like there is no inverse modulo of 0
+0*(1/0) ccant be 1
+1/0 --> undefined
+
+y exists only if following conditions holds
+1) gcd(x,m)=1 i.e they are co primes
+2) value of y lies in between [1,m-1]
+
+
+FERMATS Little Theorem
+
+If p is prime & a%p!=0
+then (a^-1)%p=(a^(p-2))%p
+
+
+
