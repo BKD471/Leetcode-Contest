@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbdf49-e0e2-4903-8a44-0062e22a690f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/concepts/modularArithemetic/LargeFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concepts/modularArithemetic/LargeFactorial.java" afterDir="false" />
-    </list>
+    <list default="true" id="e2cbdf49-e0e2-4903-8a44-0062e22a690f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +113,7 @@
       <workItem from="1678847163534" duration="23000" />
       <workItem from="1678898660963" duration="2006000" />
       <workItem from="1678955140446" duration="3000" />
+      <workItem from="1679138728818" duration="2722000" />
     </task>
     <servers />
   </component>
