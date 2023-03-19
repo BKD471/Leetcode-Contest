@@ -1,0 +1,44 @@
+gcd(a,0)=a
+gcd(b,1)=1
+gcd(b,b)=b
+
+RTP ---> gcd(a,b)==gcd(a,b-a) for all b>a
+
+LHS: let gcd(a,b)=d
+     then  a%d=0....(1), b%d=0
+
+     so a=d*k1, b=d*k2 ==> factors always occurs in pairs
+     (b-a)=d*k2-d*k1=d(k2-k1)
+     means (b-a)%d equals 0.....2
+
+     i.e  so d is common factor of both a & (b-a) from 1 & 2
+
+RHS: let gcd(a,b-a)=m
+     then a%m==0  (b-a)%m==0
+
+     so a=m*t1 ....(3),(b-a)=m*t2
+
+     (b-a)+a=m(t2+t1)
+     b=m(t2+t1)   means  b%m==0....(4)
+
+    i.e  m is factor of b from 4
+         m is factor of a from 3
+
+
+   we kow   gcd(a,b)=d & m is common factor of both a,b
+
+   d is highest common factor of a,b
+   m is common factor of a,b
+   so  d>=m
+
+   we know gcd(a,b-a)=m & d is common factor of both a,b-a
+
+   m is the highest common factor of a,b-a
+   d is common factor of a,b-a
+   so  m>=d
+
+   d>=m  & m>=d  holds iff d==m
+
+   so gcd(a,b)==gcd(a,b-a) for b>a   (proved)
+
+   gcd(a,b)=gcd(a,b%a)--->repeated subtraction is divison
