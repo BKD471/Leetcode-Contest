@@ -9,7 +9,6 @@ public class FermatsTheorem {
         res=((res%m)*(res%m))%m;
         return p%2==0? (int)(res+m): (int)(((n%m)*(res%m)+m)%m);
     }
-
     public int solve(int A, int B)
     {
         return calPow(A, B-2, B);

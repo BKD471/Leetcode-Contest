@@ -35,6 +35,14 @@ y exists only if following conditions holds
 FERMATS Little Theorem
 
 If p is prime & a%p!=0
+
+a^(p-1)%p=1
+
+==>>
+a^(p-1) mod p=1 mod p
+multiplying a^-1 on both
+
+a^(p-2) mod p=a^-1 mod p
 then (a^-1)%p=(a^(p-2))%p
 
 

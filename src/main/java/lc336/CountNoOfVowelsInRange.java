@@ -1,4 +1,4 @@
-package lc1;
+package lc336;
 
 public class CountNoOfVowelsInRange {
     public boolean isValid(String s){

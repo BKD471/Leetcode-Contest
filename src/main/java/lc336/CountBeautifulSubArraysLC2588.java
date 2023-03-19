@@ -1,4 +1,4 @@
-package lc1;
+package lc336;
 
 import java.util.HashMap;
 import java.util.Map;
