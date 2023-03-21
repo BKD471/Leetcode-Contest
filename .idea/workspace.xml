@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2cbdf49-e0e2-4903-8a44-0062e22a690f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/concepts/Euclid/CheckSubseqwithGCD1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concepts/Euclid/GCD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concepts/Euclid/Gcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concepts/Euclid/MaxGcdAfterDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/concepts/Euclid/MinHealthOfLastSurviving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/X1/AttackingPigoens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/X1/BusDilemma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/X1/SmallestXor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,6 +122,8 @@
       <workItem from="1679143188455" duration="1654000" />
       <workItem from="1679203299596" duration="1035000" />
       <workItem from="1679228706984" duration="8804000" />
+      <workItem from="1679245523706" duration="56000" />
+      <workItem from="1679395506722" duration="1379000" />
     </task>
     <servers />
   </component>
